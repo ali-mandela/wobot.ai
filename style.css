@@ -1,0 +1,54 @@
+body{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+
+  }
+.main{
+    margin:60px 60px;
+  }
+
+  .maindiv{
+    width: 560px;
+    padding: 40px 91px;
+    height: 611px;
+    margin: auto;
+    box-shadow: 1px 1px 8px 1px black;
+
+
+
+  }
+.maindiv1{
+  /* position: relative;
+  /* box-shadow: 1px 1px 8px 1px black; */
+  text-align: center;
+  /* margin: 40px 91px; */ */
+}
+.maindiv1 h1{
+  font-weight: bold;
+  padding: 8px 2px;
+  font-size: 26px;
+}
+.maindiv1 p{
+  font-size: 14px;
+}
+.maindiv2 input{
+  margin-bottom: 20px;
+}
+.maindiv2 .inn{
+  width: 100%;
+}
+p{
+  text-align: center;
+}
+p a{
+  text-decoration: none;
+}
+//background
+.back{
+  position: absolute;
+  width: 500px;
+  height: 20px;
+  background-color: grey;
+}
